@@ -41,6 +41,7 @@ body {
   border-radius: 12px;
   background-color: #EFBB4F;
   margin: 0 0.6rem;
+  overflow: hidden;
 }
 
 .reel_img>img {
